@@ -1,0 +1,2 @@
+wheel-base,length,width,height,curb-weight,engine-size,bore,stroke,compression-ratio,horsepower,peak-rpm,city-mpg,highway-mpg,fuel-type_gas,aspiration_turbo,num-of-doors_two,body-style_hardtop,body-style_hatchback,body-style_sedan,body-style_wagon,drive-wheels_fwd,drive-wheels_rwd
+1.11395988,1.415131894,2.518678493,0.874581821,0.971465405,0.056654784,-0.700510141,0.483649195,-0.413714661,0.876172144,0.777269315,-1.233929248,-1.242393829,0,1,0,0,0,1,0,1,0

@@ -1,0 +1,2 @@
+age,fnlwgt,education-num,hours-per-week,marital-status_Married-AF-spouse,marital-status_Married-civ-spouse,marital-status_Married-spouse-absent,marital-status_Never-married,marital-status_Separated,marital-status_Widowed,relationship_Not-in-family,relationship_Other-relative,relationship_Own-child,relationship_Unmarried,relationship_Wife,race_Asian-Pac-Islander,race_Black,race_Other,race_White,sex_Male
+0.301369863,0.044291031,0.8,0.397959184,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1
