@@ -1,0 +1,5 @@
+Month,DayofMonth,DayOfWeek,Carrier,OriginAirportID,DestAirportID,CRSDepTime,DepDelay,CRSArrTime,ArrDelay
+4,19,5,DL,11433,13303,837,-3,1138,0
+4,6,1,AA,11298,12339,1805,0,2105,0
+4,19,3,AS,14893,13830,945,-4,1201,0
+4,20,4,WN,13204,14683,1750,84,1935,0
